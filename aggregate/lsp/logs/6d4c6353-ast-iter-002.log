@@ -1,0 +1,6 @@
+[2026-10-11T07:50:31Z] === AST ITERATION 2 START | repo=encode/sentry-asgi sha=6d4c6353 ===
+[2026-10-11T07:50:31Z] [iter=2] PHASE START: ast repo=encode/sentry-asgi sha=6d4c6353
+[2026-10-11T07:50:31Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/6d4c6353ad7717d66da85510cb6def6f592ae5ce
+[2026-10-11T07:50:31Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6d4c6353ad7717d66da85510cb6def6f592ae5ce/.complete
+[2026-10-11T07:50:31Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T07:50:31Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
