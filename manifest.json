@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "encode",
+  "repo": "sentry-asgi",
+  "versions": [
+    {
+      "commit": "6d4c6353ad7717d66da85510cb6def6f592ae5ce",
+      "parsed_at": "2026-10-11T01:55:00.893922+00:00",
+      "filetree": "filetree/6d4c6353ad7717d66da85510cb6def6f592ae5ce.nq.gz",
+      "blobs": [
+        "blob/69954ad8b2e61b5ac7e212d07f3a09646faa2f79.nq.gz",
+        "blob/4471568390905295b8d8876d2e0428dd90c3dd96.nq.gz",
+        "blob/c2336342e2cd67e9c3022ecaa4788bb909039e77.nq.gz",
+        "blob/42ff341d777a47a86b55f8f618793191c5004cc8.nq.gz",
+        "blob/16e31575ba312399a16b2f1ffbb62228f33f165f.nq.gz",
+        "blob/7953ba369bc498018daab7b131c571f815b2c8f1.nq.gz",
+        "blob/345abba082d418b214ebef818a5eaf735ee740b2.nq.gz",
+        "blob/b76ca681512bf9967cc038969d9fc58bfadd04aa.nq.gz",
+        "blob/47676bb081451a84006261f890f0f8257bb86c43.nq.gz",
+        "blob/24fd683602f4ec2383b3ad1e4c1e33a81e0c32ed.nq.gz",
+        "blob/38866d6b38054166882eb72da4def539de39cdef.nq.gz",
+        "blob/37d1117d8b98d3dfa9e6e920ce28550056eeb4ea.nq.gz",
+        "blob/2ad70001637cf65d178b42a374c17b772132a1ff.nq.gz",
+        "blob/a47fe8f02785c2111b12a1d8c832ed2be0686ec5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
