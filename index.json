@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "sentry-asgi",
+  "versions": [
+    {
+      "commit": "6d4c6353ad7717d66da85510cb6def6f592ae5ce",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:57:07.989831+00:00"
+    }
+  ]
+}
